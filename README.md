@@ -29,7 +29,7 @@ $ git merge upstream/main
 
 1801-forks
 
-
+gh pr create --title "The bug is fixed" --body "Everything works again"
 
 
 
