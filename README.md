@@ -15,16 +15,16 @@ Subject: [PATCH] updated index for better welcome message
 - GUI-related pull requests should be opened against
 -
 -
-- @primer/react v37.11.2
+- 
 <!---
 Dem0n52431/Dem0n52431 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 -
 -
--
 - Phi-3-medium instruct (128k)
 -
+- @primer/react  v42.01.10.4
 - org.rails
 -
 $ git merge upstream/main
@@ -32,13 +32,10 @@ $ git merge upstream/main
 > Fast-forward
 >  README.md                 |    5 +++-_-
 >  1 file changed, 3 insertions(+), 2 deletions(-#-)
-
-
-
-
-
-
-# Template to sync with upstream
+-
+-
+-
+> # Template to sync with upstream
 name: Sync Upstream
 
 env:
