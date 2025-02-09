@@ -6,26 +6,27 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - Hello Alice ❄️
-From 67c0afc1da354d8571f51b6f0af8f2794117fd10 Mon Sep 17 00:00:00 2001
+- From 67c0afc1da354d8571f51b6f0af8f2794117fd10 Mon Sep 17 00:00:00 2001
 From: The Octocat <octocat@nowhere.com>
 Date: Sun, 27 Apr 2014 15:36:39 +0530
 Subject: [PATCH] updated index for better welcome message
 -
 -
 - GUI-related pull requests should be opened against
-
 -
-@primer/react v37.11.2
+-
+- @primer/react v37.11.2
 <!---
 Dem0n52431/Dem0n52431 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-org:rails
-
-
-Phi-3-medium instruct (128k)
-
-
+-
+-
+-
+- Phi-3-medium instruct (128k)
+-
+- org.rails
+-
 $ git merge upstream/main
 > Updating 34d91da..16c57ad
 > Fast-forward
