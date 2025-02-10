@@ -42,7 +42,8 @@ $ git merge upstream/main
 -
 - # Template to sync with upstream
 name: Sync Upstream to 4t71q3
-
+-
+- GET /orgs/HellsAngels/teams
 env:
   # Required, URL to upstream (fork base)
   UPSTREAM_URL: "https://github.com/<usr>/<repo>.git"
