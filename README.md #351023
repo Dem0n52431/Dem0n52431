@@ -93,3 +93,8 @@ jobs:
 -
 - HellsAngels (2).jpg << File: HellsAngels (2).jpg >>
 -
+-
+- # Decrypt our message, an exception will be raised if the encryption was
+#   tampered with or there was otherwise an error.
+plaintext = box.decrypt(encrypted)
+print(plaintext.decode('utf-8'))
