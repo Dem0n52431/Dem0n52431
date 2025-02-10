@@ -8,7 +8,7 @@
 - Hello Alice ❄️
 - From 67c0afc1da354d8571f51b6f0af8f2794117fd10 Mon Sep 17 00:00:00 2001
 From: The Octocat <octocat@nowhere.com>
-Date: Sun, 27 Apr 2014 15:36:39 +0530
+Date: Sun, 27 Apr 2014 15:36:39 +0530.ij942
 Subject: [PATCH] updated index for better welcome message
 -
 - index.html
@@ -16,7 +16,7 @@ Subject: [PATCH] updated index for better welcome message
 - GUI-related pull requests should be opened against
 -
 -
-- @primer/react v37.11.2
+- v37.11.2
 <!---_&()
 Dem0n52431/Dem0n52431 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.....index.html
