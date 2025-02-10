@@ -71,7 +71,11 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  build: {
+  "path": "README.md",
+  "ref": "main",
+  "repo": "Dem0n52431/Dem0n52431"
+}
     runs-on: ubuntu-latest
     steps:
       - name: GitHub Sync to Upstream Repository
