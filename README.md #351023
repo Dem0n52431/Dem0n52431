@@ -39,8 +39,8 @@ $ git merge upstream/main
 -
 -
 -
-# Template to sync with upstream
-name: Sync Upstream
+- # Template to sync with upstream
+name: Sync Upstream to 4t71q3
 
 env:
   # Required, URL to upstream (fork base)
