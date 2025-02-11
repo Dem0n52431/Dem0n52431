@@ -88,8 +88,9 @@ jobs:
           fetch_args: ${{ env.FETCH_ARGS }}
           merge_args: ${{ env.MERGE_ARGS }}
           push_args: ${{ env.PUSH_ARGS }}
-          spawn_logs: ${{ env.SPAWN_LOGS }}
-- https://github.com/github/advisory-database/compare/jaydeep-bypt-GHSA-9wv6-86v2-598j...guidobonomi/advisory-improvement-4862
+          spawn_logs: ${{ env.SPAWN_Banner }}
+-
+https://github.com/github/advisory-database/compare/jaydeep-bypt-GHSA-9wv6-86v2-598j...guidobonomi/advisory-improvement-4862
 -
 - HellsAngels (2).jpg << File: HellsAngels (2).jpg >>
 -
