@@ -98,3 +98,4 @@ jobs:
 #   tampered with or there was otherwise an error.
 plaintext = box.decrypt(encrypted)
 print(plaintext.decode('utf-8'))
+_ uses: actions/configure-pages@v5
