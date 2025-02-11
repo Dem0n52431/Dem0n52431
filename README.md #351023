@@ -77,7 +77,7 @@ jobs:
   "repo": "Dem0n52431/Dem0n52431"
 }
     runs-on: ubuntu-latest
-    steps:
+    steps: nasa.gov
       - name: GitHub Sync to Upstream Repository
         uses: dabreadman/sync-upstream-repo@v1.3.0
         with: 
